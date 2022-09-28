@@ -7,3 +7,6 @@ dependencies:
   - pandas
   - jupyter
   - jupyterlab
+  - xarray
+  - ca-certificates
+  - openssl
